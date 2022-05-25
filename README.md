@@ -17,6 +17,15 @@ Looking forward to any interesting collab project, ping me.
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
+
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunrawat404&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunrawat404&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **ArunRawat404/arunrawat404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
