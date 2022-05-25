@@ -10,6 +10,15 @@ Looking forward to any interesting collab project, ping me.
 
 ---
 
+## Connect with me
+[<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://56faisal.medium.com/)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arunrawat404)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-rawat-0bb810230/)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%231877F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/arunrawat404))
+
+
+---
+
 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
@@ -18,12 +27,13 @@ Looking forward to any interesting collab project, ping me.
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
 
+---
 
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunrawat404&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunrawat404&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arunrawat404&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
