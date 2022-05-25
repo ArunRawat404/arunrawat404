@@ -1,5 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Arun Rawat
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Arun Rawat!
 
+---
+
+A Software Developer interested in full stack web technologies, python and web3.
+
+A chill guy who loves technology, games and sleeping haha.
+
+Looking forward to any interesting collab project, ping me.
+
+---
 <!--
 **ArunRawat404/arunrawat404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
