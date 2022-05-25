@@ -11,16 +11,18 @@ Looking forward to any interesting collab project, ping me.
 ---
 
 ## Connect with me
-[<img align="left" alt="codepen" src="https://img.shields.io/badge/codepen-%2312100E.svg?&style=for-the-badge&logo=codepen&logoColor=white" />](https://56faisal.medium.com/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/arunrawat404)
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/arun-rawat-0bb810230/)
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%231877F2.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/arunrawat404))
+<p align="left">
+<a href="https://codepen.com/arunrawat404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="4214976" height="30" width="40" /></a>
+<a href="https://twitter.com/arunrawat404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> 
+<a href="https://linkedin.com/in/arun-rawat-0bb810230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/arunrawat404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
 
 ---
+  
 
-🧰 Toolbox
-
+## Tech Stack 💻 
+<p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
