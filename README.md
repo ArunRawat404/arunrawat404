@@ -4,7 +4,7 @@
 
 A Software Developer interested in full stack web technologies, python and web3.
 
-A chill guy who loves technology, games and sleeping haha.
+A chill guy who loves technology, games.
 
 Looking forward to any interesting collab project, ping me.
 
