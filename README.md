@@ -2,11 +2,11 @@
 
 ---
 
-A Software Developer interested in full stack web technologies, python and web3.
+I'm a Software Developer passionate about full-stack web technologies, Python, and Web3.
 
 A chill guy who loves technology, games.
 
-Looking forward to any interesting collab project, ping me.
+Always open to interesting collaboration projects—feel free to ping me!
 
 ---
 
